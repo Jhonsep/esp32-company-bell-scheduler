@@ -1,0 +1,13 @@
+build/
+sdkconfig
+sdkconfig.old
+.vscode/
+.env
+.env.*
+*.log
+__pycache__/
+node_modules/
+test_scheduler
+test_scheduler.exe
+test_recovery_button
+test_recovery_button.exe
